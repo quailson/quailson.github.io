@@ -9,6 +9,6 @@ Heyo. I'm currently a student at Purdue studying Electrical Engineering. I'm a m
 
 * [SoundCloud](http://soundcloud.com/wilsonryan) - Noise and friends.
 * [GitHub](https://github.com/quailson) - Code from projects I'm working on.
-* [Instagram](https://instagram.com/awryanz) - Pictures of puppies and food.
+* [Instagram](https://instagram.com/quailson) - Pictures of puppies and food.
 
-[Or just shoot me an email.](mailto:awryanz@gmail.com) I'm always down to chat.
+[Or just shoot me an email.](mailto:awryanz@gmail.com)
